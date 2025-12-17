@@ -3,7 +3,7 @@ import Counter from "./Counter";
 function App() {
   return (
     <div>
-      <h2>Counter App</h2>
+      <h3>Counter App</h3>
       <Counter />
     </div>
   );
